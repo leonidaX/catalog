@@ -17,14 +17,7 @@ class _Color {
 }
 
 class _Asset {
-  final splash_img = "assets/images/vitrine.jpg";
-  final welcome_img = "assets/images/vitrine.jpg";
-  final name_page = "assets/images/vitrine.jpg";
-  final food_img1 = "assets/images/t-shirt1.jpg";
-  final food_img2 = "assets/images/t-shirt2.jpg";
-  final food_img3 = "assets/images/t-shirt3.jpg";
-  final food_img4 = "assets/images/t-shirt2.png";
-  final food_img5 = "assets/images/t-shirt2.png";
+
   final filter1 = "assets/images/filter1.png";
   final panier = "assets/images/panier.png";
 }
